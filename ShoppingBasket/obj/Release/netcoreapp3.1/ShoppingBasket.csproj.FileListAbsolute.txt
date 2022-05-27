@@ -1,0 +1,10 @@
+C:\Users\gbroo\source\repos\ShoppingBasket\bin\Release\netcoreapp3.1\ShoppingBasket.exe
+C:\Users\gbroo\source\repos\ShoppingBasket\bin\Release\netcoreapp3.1\ShoppingBasket.deps.json
+C:\Users\gbroo\source\repos\ShoppingBasket\bin\Release\netcoreapp3.1\ShoppingBasket.runtimeconfig.json
+C:\Users\gbroo\source\repos\ShoppingBasket\bin\Release\netcoreapp3.1\ShoppingBasket.runtimeconfig.dev.json
+C:\Users\gbroo\source\repos\ShoppingBasket\bin\Release\netcoreapp3.1\ShoppingBasket.dll
+C:\Users\gbroo\source\repos\ShoppingBasket\bin\Release\netcoreapp3.1\ShoppingBasket.pdb
+C:\Users\gbroo\source\repos\ShoppingBasket\obj\Release\netcoreapp3.1\ShoppingBasket.AssemblyInfoInputs.cache
+C:\Users\gbroo\source\repos\ShoppingBasket\obj\Release\netcoreapp3.1\ShoppingBasket.AssemblyInfo.cs
+C:\Users\gbroo\source\repos\ShoppingBasket\obj\Release\netcoreapp3.1\ShoppingBasket.dll
+C:\Users\gbroo\source\repos\ShoppingBasket\obj\Release\netcoreapp3.1\ShoppingBasket.pdb
